@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\bin\Debug\chatter.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\bin\Debug\chatter.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\obj\x86\Debug\chatter.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\obj\x86\Debug\chatter.Properties.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\obj\x86\Debug\chatter.csproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\obj\x86\Debug\chatter.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\chatter\obj\x86\Debug\chatter.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\chatter\chatter\obj\x86\Debug\chatter.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\chatter\chatter\obj\x86\Debug\chatter.pdb
